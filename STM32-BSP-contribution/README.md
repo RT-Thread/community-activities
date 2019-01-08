@@ -56,9 +56,21 @@ STM32 BSP 贡献挑战活动规则如下：
 
 ### 填写 BSP 提交跟踪表
 
-在[本文跟踪表](https://github.com/RT-Thread/community-activities/tree/master/STM32-BSP-contribution)填写新增 BSP 信息。
+在[本文跟踪表](https://github.com/RT-Thread/community-activities/blob/master/STM32-BSP-contribution/README.md)填写新增 BSP 信息。
 
-点击链接进去GitHub 仓库在线修改 README.md文档。修改及提交步骤如下所示：
+点击链接进入GitHub 仓库在线修改 README.md文档。修改及提交步骤如下所示：
+
+* 按下图所示点击编辑按钮修改文档。
+
+![新增跟踪信息](figures/edit.png)
+
+* 然后在跟踪表章节新增自己的信息，填写完成可以点击 `Preview changes`查看预览效果，确认格式是否填写正确。
+
+![新增跟踪信息](figures/add.png)
+
+* 信息添加完成后填写提交信息并提交，比如“增加 ST 官方 stm32f091-nucleo 开发板”等。
+
+![新增跟踪信息](figures/pr.png)
 
 ### fork RT-Thread 源代码仓库
 
@@ -72,7 +84,7 @@ STM32 BSP 贡献挑战活动规则如下：
 
 BSP 按照规范制作完成后推送到自己的 GitHub 仓库并提 PR，参考文档《向 RT-Thread 贡献代码》。
 
-### 根据 PR review 意见更新 BSP
+### 根据 review 意见更新 BSP
 
 GitHub 提 PR 后需要关注 PR 状态，相关的评审意见会在这里更新，根据评审意见及时修改 BSP。
 
