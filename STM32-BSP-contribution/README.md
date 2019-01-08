@@ -56,7 +56,9 @@ STM32 BSP 贡献挑战活动规则如下：
 
 ### 填写 BSP 提交跟踪表
 
-根据[跟踪表](https://github.com/misonyo/community-activities)填写新增 BSP 信息。
+在[本文跟踪表](https://github.com/RT-Thread/community-activities/tree/master/STM32-BSP-contribution)填写新增 BSP 信息。
+
+点击链接进去GitHub 仓库在线修改 README.md文档。修改及提交步骤如下所示：
 
 ### fork RT-Thread 源代码仓库
 
