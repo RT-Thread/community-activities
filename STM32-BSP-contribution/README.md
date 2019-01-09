@@ -121,4 +121,5 @@ BSP 修改完成，评审通过后才会被 merge。
 | XiaojieFan  | 小住住        |  硬十ibox    | stm32f103-hw100k-ibox|待完成      | 待完成       |  2019/1/8|          |
 | e31207077  | e31207077     | NUCLEO-F767ZI | stm32f767-st-nucleo|待完成      | 待完成        |  2019/1/9|          |
 | jinsheng20  | jinsheng     |  stm32f746-disco | stm32f746-st-disco|待完成    | 待完成       |  2019/1/9|          |
+| sunshine0824| sun_shine    |  Nucleo-L432KC | stm32l432-st-nucleo|待完成    | 待完成       |  2019/1/9|          |
 
