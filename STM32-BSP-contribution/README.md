@@ -123,3 +123,4 @@ BSP 修改完成，评审通过后才会被 merge。
 | jinsheng20  | jinsheng     |  stm32f746-disco | stm32f746-st-disco|待完成    | 待完成       |  2019/1/9|   已提pr       |
 | sunshine0824| sun_shine    |  Nucleo-L432KC | stm32l432-st-nucleo|待完成    | 待完成       |  2019/1/9|  已提pr        |
 | andeyqi     | andeyqi      |  NUCLEO-F446ZE | stm32F446-st-nucleo|待完成    | 待完成       |  2019/1/9|  已提pr       |
+|  FindYGL   |   Glen_Young  | LY-STM32F103C8V1.2 |stm32f103-dofly-lyc8|待完成 | 待完成       |  2019/1/9|          |
