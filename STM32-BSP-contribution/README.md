@@ -118,9 +118,10 @@ BSP 修改完成，评审通过后才会被 merge。
 
 |**GitHub ID**|**RTT论坛 ID**|**开发板名称**|**BSP 文件夹名称**|**第一阶段目标**|**第二阶段目标**|**开始日期**|**完成状态**|
 | ------------| -----------  |------------ | ----------------| -------------- |---------------| ---------|-----------|
-| XiaojieFan  | 小住住        |  硬十ibox    | stm32f103-hw100k-ibox|待完成      | 待完成       |  2019/1/8|          |
-| e31207077  | e31207077     | NUCLEO-F767ZI | stm32f767-st-nucleo|待完成      | 待完成        |  2019/1/9|  已提pr        |
-| jinsheng20  | jinsheng     |  stm32f746-disco | stm32f746-st-disco|待完成    | 待完成       |  2019/1/9|   已提pr       |
-| sunshine0824| sun_shine    |  Nucleo-L432KC | stm32l432-st-nucleo|待完成    | 待完成       |  2019/1/9|  已提pr        |
-| andeyqi     | andeyqi      |  NUCLEO-F446ZE | stm32F446-st-nucleo|待完成    | 待完成       |  2019/1/9|  已提pr       |
-|  FindYGL   |   Glen_Young  | LY-STM32F103C8V1.2 |stm32f103-dofly-lyc8|待完成 | 待完成       |  2019/1/9|          |
+| XiaojieFan  | 小住住        |  硬十ibox    | stm32f103-hw100k-ibox|待完成      | 待完成       |  2019/1/8|  已提 PR,一审完成，commit 很多，PR 关闭重新提交 |
+| e31207077  | e31207077     | NUCLEO-F767ZI | stm32f767-st-nucleo|待完成      | 待完成        |  2019/1/9|  已提 PR，一审完成，commit 很多，PR 关闭重新提交        |
+| jinsheng20  | jinsheng     |  stm32f746-disco | stm32f746-st-disco|待完成    | 待完成       |  2019/1/9| 第2次提 PR，二审完成       |
+| sunshine0824| sun_shine    |  Nucleo-L432KC | stm32l432-st-nucleo|待完成    | 待完成       |  2019/1/9|  已提 PR，一审完成，commit 很多，PR 关闭重新提交 |
+| andeyqi     | andeyqi      |  NUCLEO-F446ZE | stm32F446-st-nucleo|已完成    | 无       |  2019/1/9|  PR 已合并  |
+| FindYGL   |   Glen_Young  | LY-STM32F103C8V1.2 |stm32f103-dofly-lyc8|待完成 | 待完成       |  2019/1/9| 已提 PR，一审完成，待更新 |
+| whj4674672 |     | 麦克泰 F107 μc_Eval开发板 |stm32f107-uc-eval|待完成 | 待完成            |  2019/1/9| 第 2 次提 PR，二审完成，待更新 |
