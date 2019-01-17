@@ -125,3 +125,5 @@ BSP 修改完成，评审通过后才会被 merge。
 | andeyqi     | andeyqi      |  NUCLEO-F446ZE | stm32F446-st-nucleo|已完成    | 无       |  2019/1/9|  PR 已合并  |
 | FindYGL   |   Glen_Young  | LY-STM32F103C8V1.2 |stm32f103-dofly-lyc8|待完成 | 待完成       |  2019/1/9| 已提 PR，一审完成，待更新 |
 | whj4674672 |     | 麦克泰 F107 μc_Eval开发板 |stm32f107-uc-eval|待完成 | 待完成            |  2019/1/9| 第 2 次提 PR，二审完成，待更新 |
+| Vincent-VG | wzw66 | NUCLEO-L476RG | stm32l476-st-nucleo | 待完成 | 待完成 | 2019-1-17 | 待完成 |
+| gztss |  | NUCLEO-G072RB| stm32/stm32g071-nucleo | 已完成 | 待完成 | 2019-1-17 | 已提交PR |
