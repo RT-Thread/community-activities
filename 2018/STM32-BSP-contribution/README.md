@@ -127,3 +127,4 @@ BSP 修改完成，评审通过后才会被 merge。
 | whj4674672 |  无        | 麦克泰 F107 μc_Eval开发板 |stm32f107-uc-eval|已完成 | 待完成     |  2019/1/9|  |
 | Vincent-VG | wzw66      | NUCLEO-L476RG | stm32l476-st-nucleo | 已完成    | 待完成       | 2019-1-17 |  |
 | gztss      |            | NUCLEO-G072RB  | stm32/stm32g071-nucleo | 已完成 | 待完成       | 2019-1-17 |  |
+| Jackistang | Jacksi     | 野火 F103 指南者开发板 | stm32f103-fire-guide | 待完成 | 待完成  | 2020-4-29 |  |
