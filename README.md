@@ -1,27 +1,46 @@
-# RT-Thread 近期社区任务总览
+# Create Better English Documentation!
 
-|  状态  | 编号      | 描述                                                        | 分值 |                                |
-| :----: | --------- | ----------------------------------------------------------- | :--: | ------------------------------ |
-| 申请中 | JOB201901 | at_device 软件包，适配更多模组                              |  40  | [查看更多](/2019/JOB201901.md) |
-| 申请中 | JOB201902 | ppp_device 软件包，适配更多模组                             |  20  | [查看更多](/2019/JOB201902.md) |
-| 申请中 | JOB201903 | 基于 RT-Thread MicroPython 开发环境，开发更多创意 demo      |  40  | [查看更多](/2019/JOB201903.md) |
-| 申请中 | JOB201904 | 基于 RT-Thread MicroPython 开发环境，开发更多驱动库或软件库 |  20  | [查看更多](/2019/JOB201904.md) |
-| 申请中 | JOB201905 | 让 qemu 把 stm32 也模拟出来                                 |  60  | [查看更多](/2019/JOB201905.md) |
-| 申请中 | JOB201906 | 传感器驱动软件包开发                                        |  20  | [查看更多](/2019/JOB201906.md) |
-| 申请中 | JOB201907 | STM32 驱动开发                                              |  20  | [查看更多](/2019/JOB201907.md) |
-| 申请中 | JOB201908 | imxRT 驱动开发                                              |  20  | [查看更多](/2019/JOB201908.md) |
-| 申请中 | JOB201909 | 基于 RT-Robot 的智能车开发                                  |  60  | [查看更多](/2019/JOB201909.md) |
-| 申请中 | JOB201910 | 让 RT-Thread 支持 LoRaWAN                                   |  50  | [查看更多](/2019/JOB201910.md) |
-| 申请中 | JOB202001 | 基于 RT-Thread的视频教程制作                                |  20  | [查看更多](/2020/JOB202001.md) |
-| 申请中 | JOB202002 | 基于 RT-Thread的应用DEMO制作                                |  40  | [查看更多](/2020/JOB202002.md) |
-| 申请中 | JOB202003 | 基于RT-Thread的线上线下培训活动                             |  40  | [查看更多](/2020/JOB202003.md) |
-| 申请中 | JOB202004 | 基于RT-Thread的无人机平台开发                               |  60  | [查看更多](/2020/JOB202004.md) |
-| 申请中 | JOB202005 | nRF5x BSP 框架搭建和完善                                    |  50  | [查看更多](/2020/JOB202005.md) |
-| 申请中 | JOB202006 | BSP制作                                                     |  50  | [查看更多](/2020/JOB202006.md) |
-| 申请中 | JOB202007 | 第三方RTOS兼容层编写与维护                                  |  50  | [查看更多](/2020/JOB202007.md) |
-| 申请中 | JOB202008 | STM32WB55 BSP及BLE支持                                      |  50  | [查看更多](/2020/JOB202008.md) |
+In the spirit of openness, we are maintaining a documentation center for how we create this project and how you can quickly get started using this project. The original RT-Thread documentation was generated in Chinese and has been translated into English by RT-Thread community developers, Non-English speakers. So after the English documents got published, we received some complaints saying that some expressions in this document are not very understandable and have arisen confusion, especially they're new beginners to learn the embedded system. 
+
+We're here calling embedded developers to help us perfect the documentation. And hopefully, you will also get to know the embedded system at a much deeper level than you're simply using the technology.
+
+## Task List
 
 
+| Status  | Id        | docs                                                         | applicant    |
+| :-----: | --------- | ------------------------------------------------------------ | ------------ |
+| opening | JOB2022xx | xxx                                                          | Tom(example) |
+| opening | JOB202201 | https://github.com/RT-Thread/rtthread-manual-doc/blob/master/basic/basic.md |              |
+| opening | JOB202202 | https://github.com/RT-Thread/rtthread-manual-doc/blob/master/env/env.md |              |
+| opening | JOB202203 | https://github.com/RT-Thread/rtthread-manual-doc/blob/master/finsh/finsh.md |              |
+| opening | JOB202204 | https://github.com/RT-Thread/rtthread-manual-doc/blob/master/filesystem/README.md |              |
+| opening | JOB202205 | https://github.com/RT-Thread/rtthread-manual-doc/blob/master/interrupt/interrupt.md |              |
+| opening | JOB202206 | https://github.com/RT-Thread/rtthread-manual-doc/blob/master/introduction/introduction.md |              |
+| opening | JOB202207 | https://github.com/RT-Thread/rtthread-manual-doc/blob/master/kernel-porting/kernel-porting.md |              |
+| opening | JOB202208 | https://github.com/RT-Thread/rtthread-manual-doc/blob/master/thread-comm/thread-comm.md |              |
+| opening | JOB202209 | https://github.com/RT-Thread/rtthread-manual-doc/blob/master/thread-sync/thread-sync.md |              |
+| opening | JOB202210 | https://github.com/RT-Thread/rtthread-manual-doc/blob/master/thread/thread.md |              |
+| opening | JOB202211 | https://github.com/RT-Thread/rtthread-manual-doc/blob/master/timer/timer.md |              |
+| opening | JOB202212 | https://github.com/RT-Thread/rtthread-manual-doc/blob/master/device/device.md |              |
 
+## How to Contribute?
 
+1. Submit a PR to apply for a chapter
+
+2. When PR is approved, you can get started
+
+3. Review and fix the chapter
+
+   - You can fix grammar, expressions, spellings, marks, or any related
+
+   - You can add a description to elaborate on a certain point
+
+   - You can add examples to show how the code works
+
+   - ...Anything you think can improve this document is all welcome
+
+3. Pull request
+4. Waiting to be merged. 
+
+**Every Contribution Counts Tremendously for Open Source Project**
 
