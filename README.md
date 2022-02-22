@@ -10,7 +10,7 @@ We're here calling embedded developers to help us perfect the documentation. And
 | Status  | Id        | docs                                                         | applicant    |
 | :-----: | --------- | ------------------------------------------------------------ | ------------ |
 | opening | JOB2022xx | xxx                                                          | Tom(example) |
-| opening | JOB202201 | https://github.com/RT-Thread/rtthread-manual-doc/blob/master/basic/basic.md |              |
+| opening | JOB202201 | https://github.com/RT-Thread/rtthread-manual-doc/blob/master/basic/basic.md | tushar-wiz|
 | opening | JOB202202 | https://github.com/RT-Thread/rtthread-manual-doc/blob/master/env/env.md |              |
 | opening | JOB202203 | https://github.com/RT-Thread/rtthread-manual-doc/blob/master/finsh/finsh.md |              |
 | opening | JOB202204 | https://github.com/RT-Thread/rtthread-manual-doc/blob/master/filesystem/README.md |              |
