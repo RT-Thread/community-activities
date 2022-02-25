@@ -13,15 +13,15 @@ We're here calling embedded developers to help us perfect the documentation. And
 | opening | JOB202201 | https://github.com/RT-Thread/rtthread-manual-doc/blob/master/basic/basic.md | [tushar-wiz](https://github.com/tushar-wiz) & [byte-me-stan](https://github.com/byte-me-stan)|
 | opening | JOB202202 | https://github.com/RT-Thread/rtthread-manual-doc/blob/master/env/env.md |     byte-me-stan         |
 | opening | JOB202203 | https://github.com/RT-Thread/rtthread-manual-doc/blob/master/finsh/finsh.md |              |
-| opening | JOB202204 | https://github.com/RT-Thread/rtthread-manual-doc/blob/master/filesystem/README.md |  byte-me-stan             |
-| opening | JOB202205 | https://github.com/RT-Thread/rtthread-manual-doc/blob/master/interrupt/interrupt.md |  byte-me-stan             |
+| opening | JOB202204 | https://github.com/RT-Thread/rtthread-manual-doc/blob/master/filesystem/README.md |              |
+| opening | JOB202205 | https://github.com/RT-Thread/rtthread-manual-doc/blob/master/interrupt/interrupt.md |              |
 | opening | JOB202206 | https://github.com/RT-Thread/rtthread-manual-doc/blob/master/introduction/introduction.md |              |
-| opening | JOB202207 | https://github.com/RT-Thread/rtthread-manual-doc/blob/master/kernel-porting/kernel-porting.md |   byte-me-stan            |
-| opening | JOB202208 | https://github.com/RT-Thread/rtthread-manual-doc/blob/master/thread-comm/thread-comm.md |     byte-me-stan          |
-| opening | JOB202209 | https://github.com/RT-Thread/rtthread-manual-doc/blob/master/thread-sync/thread-sync.md |   byte-me-stan            |
-| opening | JOB202210 | https://github.com/RT-Thread/rtthread-manual-doc/blob/master/thread/thread.md |   byte-me-stan            |
-| opening | JOB202211 | https://github.com/RT-Thread/rtthread-manual-doc/blob/master/timer/timer.md |        byte-me-stan       |
-| opening | JOB202212 | https://github.com/RT-Thread/rtthread-manual-doc/blob/master/device/device.md |   byte-me-stan            |
+| opening | JOB202207 | https://github.com/RT-Thread/rtthread-manual-doc/blob/master/kernel-porting/kernel-porting.md |              |
+| opening | JOB202208 | https://github.com/RT-Thread/rtthread-manual-doc/blob/master/thread-comm/thread-comm.md |               |
+| opening | JOB202209 | https://github.com/RT-Thread/rtthread-manual-doc/blob/master/thread-sync/thread-sync.md |              |
+| opening | JOB202210 | https://github.com/RT-Thread/rtthread-manual-doc/blob/master/thread/thread.md |              |
+| opening | JOB202211 | https://github.com/RT-Thread/rtthread-manual-doc/blob/master/timer/timer.md |               |
+| opening | JOB202212 | https://github.com/RT-Thread/rtthread-manual-doc/blob/master/device/device.md |              |
 
 ## How to Contribute?
 
